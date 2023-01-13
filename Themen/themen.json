@@ -1,0 +1,39 @@
+[
+    {
+      "title" : "Die schlimmsten Jobs & besten Geschichten dazu... #Sprechstunde 1",
+      "date" : "15.09.2018",
+      "hosts" : ["Flo", "Olli"],
+      "topics" : [
+        {
+            "topic" : "Jobs",
+            "timestamp" : "0.00"
+        }
+      ]
+    },
+    {
+        "title" : "Sex, Drugs and Ferienlager #Sprechstunde 2",
+        "date" : "1.2",
+        "hosts" : ["Flo", "Olli"],
+        "topics" : [
+            {
+                "topic" : "Klassenfahrten und Ferienlager",
+                "timestamp" : "0.00"
+            }
+          ]
+    },
+    {
+        "title" : "bye",
+        "date" : "1.2",
+        "hosts" : ["Flo", "Olli"],
+        "topics" : [
+            {
+                "topic" : "Work-Life-Ballance",
+                "timestamp" : "0.00"
+            },
+            {
+                "topic" : "Serien",
+                "timestamp" : "30.00"
+            }
+          ]
+    }
+]
