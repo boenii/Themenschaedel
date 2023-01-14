@@ -3,7 +3,14 @@
       "title" : "Die schlimmsten Jobs & besten Geschichten dazu... #Sprechstunde 1",
       "link" : "https://open.spotify.com/episode/6E3hH1bUotCI9GCHCR5y93?si=11ae13995ae04845",
       "date" : "15.09.2018",
-      "hosts" : ["Flo", "Olli"],
+      "hosts" : [
+        {
+            "host" : "Flo"
+        },
+        {
+            "host" : "Olli"
+        }
+      ],
       "topics" : [
         {
             "topic" : "Jobs",
@@ -15,7 +22,14 @@
         "title" : "Sex, Drugs and Ferienlager #Sprechstunde 2",
         "link" : "https://open.spotify.com/episode/58yVXcRNRdRqx1VrTUL5kw?si=11873966b95c4295",
         "date" : "22.09.2018",
-        "hosts" : ["Flo", "Olli"],
+        "hosts" : [
+            {
+                "host" : "Flo"
+            },
+            {
+                "host" : "Olli"
+            }
+          ],
         "topics" : [
             {
                 "topic" : "Klassenfahrten und Ferienlager",
@@ -27,7 +41,14 @@
         "title" : "Kaputte Work-Life-Ballance, Serien-Junkies & illegales Streaming... #Sprechstunde 3",
         "link" : "https://open.spotify.com/episode/1JUfkX1s7gRRkHNAwtsC75?si=ea7b94e922d348cf",
         "date" : "29.09.2018",
-        "hosts" : ["Flo", "Olli"],
+        "hosts" : [
+            {
+                "host" : "Flo"
+            },
+            {
+                "host" : "Olli"
+            }
+          ],
         "topics" : [
             {
                 "topic" : "Work-Life-Ballance",
@@ -43,12 +64,26 @@
         "title" : "Wie ein Krampf im Hintern... Kommentare auf YouTube... #Sprechstunde 4 (feat. Lästerschwestern)",
         "link" : "https://open.spotify.com/episode/34SDfmQqRuQ1kbVMuy6jrg?si=c3fcfe8828bc4d87",
         "date" : "07.10.2018",
-        "hosts" : ["Flo", "Olli", "Robin", "David"],
+        "hosts" : [
+            {
+                "host" : "Flo"
+            },
+            {
+                "host" : "Olli"
+            },
+            {
+                "host" : "Robin"
+            },
+            {
+                "host" : "David"
+            }
+          ],
         "topics" : [
             {
                 "topic" : "Kommenar Kultur",
                 "timestamp" : "0.00"
             }
-          ]
+          ],
+        "ads" : "Manscaped"
     }
 ] 

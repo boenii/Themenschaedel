@@ -6,4 +6,4 @@ with open('D:\\privat\\Github\\Themenschaedel\\Themen\\themen.json', 'r') as the
     themen = json.load(themen_file)
     
     for m in range(len(themen)):
-        print(themen[m]['title'])
+        print(themen[m]['hosts'])
