@@ -1,8 +1,9 @@
 [
     {
+      "date" : "15.09.2018",
       "title" : "Die schlimmsten Jobs & besten Geschichten dazu... #Sprechstunde 1",
       "link" : "https://open.spotify.com/episode/6E3hH1bUotCI9GCHCR5y93?si=11ae13995ae04845",
-      "date" : "15.09.2018",
+      "ads" : "",
       "summary" : "Flo und Olli reden in der ersten Folge über ihre Berufswünsche aus ihrer Jugend und Kindheit und über Jobs die sie nie machen könnten. Vor allem sprechen sie aber über die Jobs, die sie von der Schulziet bis jetzt hatten.",
       "hosts" : [
         {
@@ -17,13 +18,13 @@
             "topic" : "Jobs",
             "timestamp" : "0.00"
         }
-      ],
-      "ads" : ""
+      ]
     },
     {
+        "date" : "22.09.2018",
         "title" : "Sex, Drugs and Ferienlager #Sprechstunde 2",
         "link" : "https://open.spotify.com/episode/58yVXcRNRdRqx1VrTUL5kw?si=11873966b95c4295",
-        "date" : "22.09.2018",
+        "summary" :"In dieser Folge reden Flo und Olli über ihre Erlebnisse auf Klassenfahrten und Ferienlagern und natürlich gibt es auch einige Campingplatz Geschichten von Olli.",
         "hosts" : [
             {
                 "host" : "Flo"
@@ -35,7 +36,11 @@
         "topics" : [
             {
                 "topic" : "Ferienlager und Klassenfahrten",
-                "timestamp" : "3.20"
+                "timestamp" : "0.00"
+            },
+            {
+                "topic" : "Campingplatz Geschichten",
+                "timestamp" : "0.00"
             }
           ],
           "ads" : ""
