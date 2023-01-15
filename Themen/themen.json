@@ -3,6 +3,7 @@
       "title" : "Die schlimmsten Jobs & besten Geschichten dazu... #Sprechstunde 1",
       "link" : "https://open.spotify.com/episode/6E3hH1bUotCI9GCHCR5y93?si=11ae13995ae04845",
       "date" : "15.09.2018",
+      "summary" : "Flo und Olli reden in der ersten Folge über ihre Berufswünsche aus ihrer Jugend und Kindheit und über Jobs die sie nie machen könnten. Vor allem sprechen sie aber über die Jobs, die sie von der Schulziet bis jetzt hatten.",
       "hosts" : [
         {
             "host" : "Flo"
@@ -16,7 +17,8 @@
             "topic" : "Jobs",
             "timestamp" : "0.00"
         }
-      ]
+      ],
+      "ads" : ""
     },
     {
         "title" : "Sex, Drugs and Ferienlager #Sprechstunde 2",
@@ -32,10 +34,11 @@
           ],
         "topics" : [
             {
-                "topic" : "Klassenfahrten und Ferienlager",
-                "timestamp" : "0.00"
+                "topic" : "Ferienlager und Klassenfahrten",
+                "timestamp" : "3.20"
             }
-          ]
+          ],
+          "ads" : ""
     },
     {
         "title" : "Kaputte Work-Life-Ballance, Serien-Junkies & illegales Streaming... #Sprechstunde 3",
@@ -58,7 +61,8 @@
                 "topic" : "Serien",
                 "timestamp" : "30.00"
             }
-          ]
+          ],
+          "ads" : "Koro"
     },
     {
         "title" : "Wie ein Krampf im Hintern... Kommentare auf YouTube... #Sprechstunde 4 (feat. Lästerschwestern)",
@@ -80,7 +84,7 @@
           ],
         "topics" : [
             {
-                "topic" : "Kommenar Kultur",
+                "topic" : "Kommentar Kultur",
                 "timestamp" : "0.00"
             }
           ],
