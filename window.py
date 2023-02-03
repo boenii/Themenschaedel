@@ -6,7 +6,7 @@ def search_topic_or_host():
     search_value = entry.get()
     search_by = var.get()
     
-    with open('D:\\privat\\Github\\Themenschaedel\\Themen\\themen.json', 'r') as themen_file:
+    with open('D:\\privat\\Github\\Themenschaedel\\Themen\\themen.json', 'r', encoding='utf-8') as themen_file:
         themen = json.load(themen_file)
 
         result = ""
