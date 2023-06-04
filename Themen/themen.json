@@ -4,7 +4,6 @@
       "title" : "Die schlimmsten Jobs & besten Geschichten dazu... #Sprechstunde 1",
       "link" : "https://open.spotify.com/episode/6E3hH1bUotCI9GCHCR5y93?si=11ae13995ae04845",
       "ads" : "",
-      "summary" : "Flo und Olli reden in der ersten Folge über ihre Berufswünsche aus ihrer Jugend und Kindheit und über Jobs die sie nie machen könnten. Vor allem sprechen sie aber über die Jobs, die sie von der Schulziet bis jetzt hatten.",
       "hosts" : [
         {
             "host" : "Flo"
@@ -16,7 +15,8 @@
       "topics" : [
         {
             "topic" : "Jobs",
-            "timestamp" : "0.00"
+            "start" : "0.00",
+            "end" : "10.00"
         }
       ]
     },
@@ -24,7 +24,6 @@
         "date" : "22.09.2018",
         "title" : "Sex, Drugs and Ferienlager #Sprechstunde 2",
         "link" : "https://open.spotify.com/episode/58yVXcRNRdRqx1VrTUL5kw?si=11873966b95c4295",
-        "summary" :"In dieser Folge reden Flo und Olli über ihre Erlebnisse auf Klassenfahrten und Ferienlagern und natürlich gibt es auch einige Campingplatz Geschichten von Olli.",
         "hosts" : [
             {
                 "host" : "Flo"
@@ -36,11 +35,13 @@
         "topics" : [
             {
                 "topic" : "Ferienlager und Klassenfahrten",
-                "timestamp" : "0.00"
+                "start" : "0.00",
+                "end" : "10.00"
             },
             {
                 "topic" : "Campingplatz Geschichten",
-                "timestamp" : "0.00"
+                "start" : "0.00"
+                "end" : "10.00"
             }
           ],
           "ads" : ""
@@ -60,11 +61,13 @@
         "topics" : [
             {
                 "topic" : "Work-Life-Ballance",
-                "timestamp" : "0.00"
+                "start" : "0.00",
+                "end" : "30.00"
             },
             {
                 "topic" : "Serien",
-                "timestamp" : "30.00"
+                "start" : "30.00",
+                "end" : "40.00"
             }
           ],
           "ads" : "Koro"
@@ -90,9 +93,127 @@
         "topics" : [
             {
                 "topic" : "Kommentar Kultur",
-                "timestamp" : "0.00"
+                "start" : "0.00",
+                "end" : "10.00"
             }
           ],
         "ads" : "Manscaped"
+    },
+    {
+        "title" : "Aladdin und die Pannehife",
+        "link" : "https://open.spotify.com/episode/34SDfmQqRuQ1kbVMuy6jrg?si=c3fcfe8828bc4d87",
+        "date" : "30.05.2023",
+        "hosts" : [
+            {
+                "host" : "Flo"
+            },
+            {
+                "host" : "Paul"
+            },
+            {
+                "host" : "Katja"
+            },
+            {
+                "host" : "Kata"
+            }
+          ],
+        "topics" : [
+            {
+                "topic" : "Zusammenfassung",
+                "start" : "0.00",
+                "end" : "0.54"
+            },
+            {
+                "topic" : "Werbung: Clark",
+                "start" : "0.54",
+                "end" : "2.46"
+            },
+            {
+                "topic" : "Begrüßung",
+                "start" : "2.46",
+                "end" : "3.26"
+            },
+            {
+                "topic" : "Neue Disney Filme",
+                "start" : "3.26",
+                "end" : "22.56"
+            },
+            {
+                "topic" : "wenn man sich auf die eigene Voodoo Puppe setzt kann man dann wieder aufstehen",
+                "start" : "23.16",
+                "end" : "25.34"
+            },
+            {
+                "topic" : "Festivals - beste Festivals",
+                "start" : "25.34",
+                "end" : "27.18"
+            },
+            {
+                "topic" : "Kind, Jugend, Erwachsen - was beste Zeit",
+                "start" : "27.18",
+                "end" : "29.19"
+            },
+            {
+                "topic" : "wie Introvertiertheit ablegen?",
+                "start" : "29.19",
+                "end" : "31.16"
+            },
+            {
+                "topic" : "Werbung: Frank",
+                "start" : "31.16",
+                "end" : "32.31"
+            },
+            {
+                "topic" : "Flo’s kaputtes Auto",
+                "start" : "32.31",
+                "end" : "33.55"
+            },
+            {
+                "topic" : "zu viele Uwes",
+                "start" : "33.55",
+                "end" : "34.47"
+            },
+            {
+                "topic" : "Flo’s Lieblingsfestival, -festivalerfahrung",
+                "start" : "34.47",
+                "end" : "35.15"
+            },
+            {
+                "topic" : "komische Übersprungshandlungen",
+                "start" : "35.32",
+                "end" : "37.18"
+            },
+            {
+                "topic" : "zu weit vorne/hinten auf dem Klo sitzen",
+                "start" : "37.41",
+                "end" : "41.12"
+            },
+            {
+                "topic" : "schöne Kindheitserinnerung",
+                "start" : "41.21",
+                "end" : "44.25"
+            },
+            {
+                "topic" : "bestes/schlechtestes besuchtes Reiseziel",
+                "start" : "44.25",
+                "end" : "49.39"
+            },
+            {
+                "topic" : "Zivilcourage und Erste Hilfe",
+                "start" : "49.46",
+                "end" : "55.17"
+            },
+            {
+                "topic" : "alleine ein Haus bauen?",
+                "start" : "55.24",
+                "end" : "58.50"
+            },
+            {
+                "topic" : "wann/warum Kleidung wegschmeißen?",
+                "start" : "59.25",
+                "end" : "60.00"
+            }
+          ],
+        "ads" : "Clark"
     }
-] 
+]
