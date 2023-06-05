@@ -73,9 +73,36 @@
           "ads" : "Koro"
     },
     {
+        "title" : "Wie ein Krampf im Hintern... Kommentare auf YouTube... #Sprechstunde 4 (feat. Lästerschwestern)",
+        "link" : "https://open.spotify.com/episode/34SDfmQqRuQ1kbVMuy6jrg?si=c3fcfe8828bc4d87",
+        "date" : "07.10.2023",
+        "hosts" : [
+            {
+                "host" : "Flo"
+            },
+            {
+                "host" : "Olli"
+            },
+            {
+                "host" : "Robin"
+            },
+            {
+                "host" : "David"
+            }
+          ],
+        "topics" : [
+            {
+                "topic" : "Kommentar Kultur",
+                "start" : "0.00",
+                "end" : "10.00",
+            }
+          ],
+        "ads" : "Manscaped"
+    },
+    {
         "title" : "Aladdin und die Pannehife",
         "link" : "https://open.spotify.com/episode/34SDfmQqRuQ1kbVMuy6jrg?si=c3fcfe8828bc4d87",
-        "date" : "30.05.2023",
+        "date" : "30.05.2022",
         "hosts" : [
             {
                 "host" : "Flo"
@@ -188,32 +215,5 @@
             }
           ],
         "ads" : "Clark"
-    },
-    {
-        "title" : "Wie ein Krampf im Hintern... Kommentare auf YouTube... #Sprechstunde 4 (feat. Lästerschwestern)",
-        "link" : "https://open.spotify.com/episode/34SDfmQqRuQ1kbVMuy6jrg?si=c3fcfe8828bc4d87",
-        "date" : "07.10.2023",
-        "hosts" : [
-            {
-                "host" : "Flo"
-            },
-            {
-                "host" : "Olli"
-            },
-            {
-                "host" : "Robin"
-            },
-            {
-                "host" : "David"
-            }
-          ],
-        "topics" : [
-            {
-                "topic" : "Kommentar Kultur",
-                "start" : "0.00",
-                "end" : "10.00",
-            }
-          ],
-        "ads" : "Manscaped"
     },
 ]
